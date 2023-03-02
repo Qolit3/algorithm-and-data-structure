@@ -1,0 +1,20 @@
+.input  {
+  max-width: 377px;
+  margin-right: 16px;
+}
+
+.input_box {
+  display: flex;
+  justify-content: center;
+}
+
+.circle_box {
+  display: grid;
+  margin: 20px auto 0;
+  max-width: 1400px;
+  column-gap: 8px;
+  row-gap: 40px;
+  grid-template-columns: repeat(10, auto);
+  justify-content: center;
+}
+

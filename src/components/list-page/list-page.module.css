@@ -1,0 +1,36 @@
+.control_box {
+  display: flex;
+  flex-direction: column;
+  width: 952px;
+  gap: 20px;
+  margin: 0 auto 20px;
+}
+
+.input_box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input {
+  width: 204px;
+}
+
+.large_button {
+  width: 362px;
+}
+
+.small_button {
+  width: 175px;
+}
+
+.circle_box {
+  display: flex;
+  gap: 20px;
+  margin: 100px auto 0;
+  justify-content: center;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}

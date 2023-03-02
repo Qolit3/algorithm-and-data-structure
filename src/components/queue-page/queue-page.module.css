@@ -1,0 +1,22 @@
+.input_box {
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  width: 300px;
+}
+
+.mr25 {
+  margin-right: 25px;
+}
+
+.mr100 {
+  margin-right: 100px;
+}
+
+.circle_box {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
